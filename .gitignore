@@ -1,0 +1,15 @@
+# Kompilierte Java-Klassen
+out/
+*.class
+
+# IDE-spezifische Dateien
+.idea/
+*.iml
+.vscode/
+*.project
+*.classpath
+.settings/
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
